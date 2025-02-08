@@ -1,0 +1,55 @@
+Shahab, Md Sharique
+12:48 AM
+Mock 
+11:28 => Question shared on the screen
+11:30 => candidate read the question and started explaining the question 
+11:31 => candidate started explaining the conditions in the question
+11:32 => clarified with the candidate if she understood the question correctly.
+11:34 => candidate started asking clarifying questions, regarding the questions, started finding edge conditions.
+11:35 => candidate did not take any example on herself and explained what she understood so far or clarfied if she understood it correctly. Interviewer asked the candidate to take an example and show if she understood the question correctly.
+11:37 => took example array and started explaining
+11:38 => candidate missed reading the one of the condition given and interviewer asked to read the question again
+11:40 => candidate corrected herself and started explaining the test case
+11:41 => candidate explained question she understood correctly using the array she took an example.
+11:42 => started explaining her approach.
+11:45 => candidate did not come up with any concrete approach to solve the problem. Interviewer asked to think the approach first then discuss.
+11:48 => candidate started explaning her approach
+11:49 -- 11:51 => candidate explained the iterative approach, where she will iterate over the array and use one more extra space to store the values which can be re-iterated to fight again.
+11:52 => candidate told she will store the index in the auxilliary space and started explaining her approach taking an example using the auxillilary space.
+11:55 => so far candidate did not provide any approach which was reaching near to the solution.
+11:57 => reminded candidate about the time and asked to finish the question in next 2 mins.
+11:58 => candidate started writing the code
+12:06 => completed the code for the first iteration
+12:07 => asked clarifying questions on how many containers will be needed.
+12:12 => gave hints on how she should handle multiple fights in sequence when immediate neighbour pops out of the array and the next value becomes the immediate neighbour
+12:13 => while dry run she got one issue in her approach and she correctec that.
+12:13 => candidate did mistake again where she did not met the conditions given in the question.
+
+Leadership Principles: Follow STAR patternShahab, Md Sharique
+12:48 AM
+Mock 
+11:28 => Question shared on the screen
+11:30 => candidate read the question and started explaining the question 
+11:31 => candidate started explaining the conditions in the question
+11:32 => clarified with the candidate if she understood the question correctly.
+11:34 => candidate started asking clarifying questions, regarding the questions, started finding edge conditions.
+11:35 => candidate did not take any example on herself and explained what she understood so far or clarfied if she understood it correctly. Interviewer asked the candidate to take an example and show if she understood the question correctly.
+11:37 => took example array and started explaining
+11:38 => candidate missed reading the one of the condition given and interviewer asked to read the question again
+11:40 => candidate corrected herself and started explaining the test case
+11:41 => candidate explained question she understood correctly using the array she took an example.
+11:42 => started explaining her approach.
+11:45 => candidate did not come up with any concrete approach to solve the problem. Interviewer asked to think the approach first then discuss.
+11:48 => candidate started explaning her approach
+11:49 -- 11:51 => candidate explained the iterative approach, where she will iterate over the array and use one more extra space to store the values which can be re-iterated to fight again.
+11:52 => candidate told she will store the index in the auxilliary space and started explaining her approach taking an example using the auxillilary space.
+11:55 => so far candidate did not provide any approach which was reaching near to the solution.
+11:57 => reminded candidate about the time and asked to finish the question in next 2 mins.
+11:58 => candidate started writing the code
+12:06 => completed the code for the first iteration
+12:07 => asked clarifying questions on how many containers will be needed.
+12:12 => gave hints on how she should handle multiple fights in sequence when immediate neighbour pops out of the array and the next value becomes the immediate neighbour
+12:13 => while dry run she got one issue in her approach and she correctec that.
+12:13 => candidate did mistake again where she did not met the conditions given in the question.
+
+Leadership Principles: Follow STAR pattern
