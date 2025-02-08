@@ -16,7 +16,7 @@ int main(){
 	cout<<blue<<endl;
 	cout<<"that i love scoring ";
 	cout<<character<<endl;
-	cout<<"my last big score was";
+	cout<<"my last big score was  ;;)))";
 	cout<<decimal;
     return 0; 
 }
